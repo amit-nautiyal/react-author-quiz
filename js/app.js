@@ -8,7 +8,7 @@ var data = [
    },
    {
       name: 'Joseph Conrad',
-      imageUrl: 'img/authors/josephconrad.png',
+      imageUrl: 'img/authors/josephconrad.jpg',
       books: ['Heart of Darkness']
    },
    {
