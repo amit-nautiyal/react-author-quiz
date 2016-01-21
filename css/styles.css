@@ -1,0 +1,22 @@
+.footer {
+  margin-top: 40px;
+}
+.answer {
+   padding: 20px;
+   background-color: #f1f7fc;
+   border-left: 5px solid #d3e2eb;
+   margin-bottom: 10px;
+   font-size: 20px;
+   cursor: pointer;
+}
+.answer:hover{
+   background-color: #d3e2eb;
+}
+.pass{
+   background-color: green;
+   height: 345px;
+}
+.fail{
+   background-color: red;
+   height: 345px;
+}
